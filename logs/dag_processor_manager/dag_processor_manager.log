@@ -965,3 +965,4 @@ File Path                                                                       
 /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                                  3           0  0.23s           2023-06-21T03:09:09
 /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/example_datasets.py                                                                  6           0  0.31s           2023-06-21T03:09:07
 ================================================================================
+[2023-06-21T03:09:55.723+0000] {manager.py:470} INFO - Exiting gracefully upon receiving signal 15
